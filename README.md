@@ -1,2 +1,2 @@
 # FTIR_Spectra
-FTIR polymer spectra data for academic research.
+A reference library of FTIR spectra collected from everyday consumer packaging and products, acquired using the Hamamatsu Portable FTIR Spectrometer C15511-01. This repository is maintained by C.M.Penso (University of Minho)  and is intended as an open-access spectral archive for researchers, educators, and practitioners working with plastic identification and characterisation.
